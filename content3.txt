@@ -60,3 +60,35 @@
 	7、实战项目&开源框架资源（10天）
 		https://gitee.com/zhiyong21/EmbedSummary
 		包含OS、库&开源框架、GUI、物联网智能家居、项目实例等
+
+
+
+编程之美
+编程珠玑
+leetcode 题目
+c++ 标准程序库
+python编程从润到实践
+go语言实战
+unix环境高级编程
+mysql必知必会
+*高性能mysql
+linux高性能服务器编程
+python核心编程
+stl源码剖析
+操作系统:精髓与设计原理
+linux内核设计与实现
+数据库系统概念
+unix网络编程
+
+
+
+
+
+
+
+
+
+
+
+
+
